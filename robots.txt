@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ngapoa.github.io/qqL/sitemap.qqL.gz
